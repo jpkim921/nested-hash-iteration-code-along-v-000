@@ -24,4 +24,4 @@ def remove_strawberry(contacts)
   end
 end
 
-remove_strawberry(contacts)
+p remove_strawberry(contacts)
